@@ -281,7 +281,7 @@ main {
   padding: 0;
   border: 1px solid var(--line);
   background: rgba(230, 230, 230, calc(var(--p) * 0.92));
-  color: color-mix(in srgb, var(--fg), var(--bg) calc(var(--p) * 100%));
+  color: color-mix(in srgb, var(--fg), var(--bg) clamp(0%, calc((var(--p) - 0.4) * 500%), 100%));
   font-size: 11px;
   cursor: ns-resize;
   touch-action: none;
