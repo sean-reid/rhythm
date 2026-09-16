@@ -7,3 +7,4 @@ export * from './prng';
 export * from './schedule';
 export * from './voices';
 export * from './walk';
+export * from './util';

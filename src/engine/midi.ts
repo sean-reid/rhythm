@@ -29,7 +29,7 @@ export function encodeMidi(
   events: readonly MidiEvent[],
   voices: readonly VoiceName[],
   bpm: number,
-): Uint8Array {
+): Uint8Array<ArrayBuffer> {
   const noteLen = PPQ / 8;
   const raw: { tick: number; on: boolean; note: number; vel: number }[] = [];
   for (const e of events) {
