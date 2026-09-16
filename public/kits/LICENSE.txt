@@ -1,0 +1,14 @@
+Drum samples in this directory are public domain (CC0 1.0), trimmed and
+re-encoded from these sources:
+
+electronic/  Roland TR-808 samples recorded by Michael Fischer (1994),
+             republished under CC0 at
+             https://github.com/tidalcycles/sounds-tr808-fischer
+
+acoustic/    kick, snare, hat, openhat, tom, ride: Gretsch kit and cymbals
+             recorded by freesound users bigjoedrummer and shpira (CC0),
+             collected in https://github.com/psemiletov/drum_sklad (Jazzkit)
+             rim, clap, shaker, perc: Versilian Community Sample Library (CC0)
+             https://github.com/sgossner/VCSL
+
+CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/
