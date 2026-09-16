@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "rhythm",
+  "main": "worker/index.ts",
+  "compatibility_date": "2026-08-01",
+  "workers_dev": true,
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "not_found_handling": "404-page",
+  },
+  "kv_namespaces": [{ "binding": "SHARES", "id": "767eec9824b041f997931e2794952e78" }],
+  "observability": { "enabled": true },
+}
