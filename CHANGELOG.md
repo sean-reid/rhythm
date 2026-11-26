@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/sean-reid/rhythm/compare/rhythm-v0.1.0...rhythm-v0.2.0) (2026-11-26)
+
+
+### Features
+
+* serve the site from rhythm.seanre.id ([#18](https://github.com/sean-reid/rhythm/issues/18)) ([7c320b4](https://github.com/sean-reid/rhythm/commit/7c320b483e38179a93db46904b611f1b22083f0d))
+
 ## 0.1.0 (2026-09-16)
 
 
