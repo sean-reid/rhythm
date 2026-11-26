@@ -4,7 +4,7 @@
   "main": "worker/index.ts",
   "compatibility_date": "2026-08-01",
   "workers_dev": true,
-  "routes": [{ "pattern": "rhythm.dwainosaur.com", "custom_domain": true }],
+  "routes": [{ "pattern": "rhythm.seanre.id", "custom_domain": true }],
   "assets": {
     "directory": "./dist",
     "binding": "ASSETS",
